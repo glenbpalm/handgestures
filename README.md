@@ -145,3 +145,5 @@ keystrokes = {
 The `gesture.names` file contains the gestures that the model was pre-trained on. This means that [`handTrackerMod.py`](../gesture.names) can be customised to work with these gestures.
 
 The pre-trained model was obtained from https://techvidvan.com/tutorials/hand-gesture-recognition-tensorflow-opencv/
+
+This app was designed for macOS.
